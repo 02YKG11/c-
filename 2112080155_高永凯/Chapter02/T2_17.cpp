@@ -1,10 +1,10 @@
 /*
 *FileName: T2.17.cpp
-*Author:     ¸ßÓÀ¿­
+*Author:     é«˜æ°¸å‡¯
 *E-mail:      643800441@qq.com
 *Date:         Mar 6th 2022
 *College:    School of Computer Science and Information Engineering
-*Function:  Êä³öÁ·Ï°
+*Function:  è¾“å‡ºç»ƒä¹ 
 */
 #include <iostream>
 using namespace std;
