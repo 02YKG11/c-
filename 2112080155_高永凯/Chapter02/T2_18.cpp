@@ -1,10 +1,10 @@
 /*
 *FileName: T2.18.cpp
-*Author:     ¸ßÓÀ¿­
+*Author:     é«˜æ°¸å‡¯
 *E-mail:      643800441@qq.com
 *Date:         Mar 6th 2022
 *College:    School of Computer Science and Information Engineering
-*Function:  ½øÐÐÕûÊý±È½Ï
+*Function:  æ•´æ•°çš„æ¯”è¾ƒ
 */
 
 #include <iostream>
